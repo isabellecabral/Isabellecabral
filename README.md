@@ -65,7 +65,25 @@
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br/>
+<br/>
 
 ### Estatísticas
+
+<img 
+  align ="left"
+  alt ="github stats"
+  height="200"
+  style="padding-right: 10px"
+  src="https://github-readme-stats.vercel.app/api?username=isabellecabral&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+  align ="left"
+  alt ="github stats"
+  height="200"
+  style="padding-right: 10px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellecabral&theme=tokyonight" 
+/>
+
 
           
