@@ -2,7 +2,7 @@
 
 Olá! Meu nome é Isabelle Cabral, tenho 19 anos e sou apaixonada por tecnologia. Concluí o Ensino Médio na ETEC, onde também iniciei o curso técnico em Desenvolvimento de Sistemas, completando 6 meses de formação na área. Atualmente, estou cursando Sistemas de Informação e sigo em constante busca por conhecimento, sempre motivada a aprender e evoluir no universo da tecnologia.
 
-- 🌱 Aprendendo Phyton
+- 🌱 Aprendendo Python
 - 📫 Contate-me: isabellecabral.sto@gmail.com
 - 😄 Pronome: ela/dela
 
