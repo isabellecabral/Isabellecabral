@@ -12,6 +12,15 @@ Olá! Meu nome é Isabelle Cabral, tenho 19 anos e sou apaixonada por tecnologia
 
 <img 
   align ="left"
+  alt ="PYTHON"
+  title="PHYTON"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+  align ="left"
   alt ="JS"
   title="JS"
   width="30px"
